@@ -20,3 +20,4 @@ Tujuannya adalah untuk menguasai pengetahuan dasar mengenai DevOps.
 
 - [✔️] ♾️ > [Tanggung Jawab DevOps Engineer](Modules/Responsibility.md)
 - [✔️] ♾️ > [DevOps Lifecycle](Modules/DevOpsLifecycle.md)
+- [✔️] ♾️ > [Plan > Code > Build > Testing > Release > Deploy > Operate > Monitor >](Modules/DevOpsLifecycle.md)
