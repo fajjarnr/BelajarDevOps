@@ -36,6 +36,8 @@ Monitor adalah tahap terakhir dari DevOps Lifecycle. Dari tahap sebelumnya sudah
 
 Selanjutnya kembali ke tahap awal perencanaan dan mengulangi semuanya lagi.
 
+---
+
 ### Continuous Delivery
 
 Continuous Delivery = Plan > Code > Build > Test
