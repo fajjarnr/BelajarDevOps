@@ -19,3 +19,4 @@ Tujuannya adalah untuk menguasai pengetahuan dasar mengenai DevOps.
 ### Kenapa Kita Menggunakan DevOps
 
 - [✔️] ♾️ > [Tanggung Jawab DevOps Engineer](Modules/Responsibility.md)
+- [✔️] ♾️ > [DevOps Lifecycle](Modules/DevOpsLifecycle.md)
